@@ -29,9 +29,8 @@ Macros:
     * Process large volumes of data quickly (e.g., filtering, sorting, summarizing.
     * Generate recurring reports (e.g., daily, weekly) with a single click.
 
-    
-    
 Lookup Function:
+
     * Excel Lookup Function project (focusing on functions like VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH, etc.)
     * Link datasets from different sheets or files to centralize and consolidate information.
     * Eliminate copy-paste errors by using dynamic references.
