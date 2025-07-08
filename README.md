@@ -34,4 +34,17 @@ Lookup Function:
     * Excel Lookup Function project (focusing on functions like VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH, etc.)
     * Link datasets from different sheets or files to centralize and consolidate information.
     * Eliminate copy-paste errors by using dynamic references.
+
+Advanced Formulas & Functions:
+
+    * LOOKUPs: VLOOKUP, HLOOKUP, INDEX, MATCH, XLOOKUP.
+    * Dynamic Arrays: FILTER, SORT, UNIQUE, SEQUENCE.
+    * Logical & Math: IF, IFS, SUMIFS, COUNTIFS, ARRAYFORMULAS.
+
+Data Modeling & Analysis:
+
+    * Build PivotTables and PivotCharts to analyze large datasets efficiently.
+    * Develop dynamic reports using slicers, filters, and grouping features.
+
+
      
